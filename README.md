@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Data Science
 - Machine Learning & Deep Learning
 
-:⚡ : 자격증
+⚡ : 자격증
 - 빅데이터분석기사
 
 :triangular_flag_on_post: Competition
