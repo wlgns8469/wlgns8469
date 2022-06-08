@@ -31,4 +31,5 @@ Here are some ideas to get you started:
  - `Dacon`  [2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798) 장려상
  - `현대중공업그룹` [제2회 조선/해양산업 디지털 혁신을 위한 BIG DATA / AI 대학생 경진대회](https://hicontest.hhi.co.kr/) 본선진출
 
+🔭 : Paper
 
